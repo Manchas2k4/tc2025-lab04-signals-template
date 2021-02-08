@@ -96,3 +96,5 @@ ps aux | grep $pid >/dev/null && cal=$((cal+15)) || echo "Not running"
 
 echo "final grade: $cal"
 
+rm app
+
