@@ -1,3 +1,4 @@
+![Tec de Monterrey](images/logotecmty.png)
 # Actividad colaborativa - Manejo de señales
 Escribe un programa llamado execute que recibe como parámetros de entrada el nombre de tres archivos de texto. Cada uno de los archivos de texto contendrá la instrucción a ejecutar en el siguiente formato:
 
